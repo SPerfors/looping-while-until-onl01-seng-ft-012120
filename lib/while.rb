@@ -1,4 +1,4 @@
-require.pry
+require 'pry'
 def using_while
   
   levitation_force = 6
